@@ -1,5 +1,5 @@
  # [Larissa Ferreira da Silva]
-> Estudante de [Analise e Desenvolvimento de Sistemas]
+> Estudante de [Analise e Desenvolvimento de Sistemas em transição de carreira para TI (Estágio/Trainee). Possuo base em Front-end (HTML, CSS, JavaScript), Banco de Dados (SQL) e experiência comprovada como Instrutora de Treinamento. Destaque para Comunicação Assertiva, Inteligência Emocional e foco em alta performance e Desenvolvimento de Pessoas.]
  
 ---
  
@@ -49,8 +49,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| :A Corrida do Prompt | :Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | :---: |
  
 ---
  
