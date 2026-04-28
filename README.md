@@ -59,6 +59,10 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 
 | Projeto | Descrição | Link |
 | :Engenharia Reversa | :Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | :https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5: |
+
+| Projeto | Descrição | Link |
+| :Do Clone ao Produto Mínimo Viável (MVP+)| :Este projeto visa elevar a prática de engenharia reversa ao patamar da inovação competitiva, utilizando a Inteligência Artificial como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura escalável. Partindo de uma base previamente reconstruída, o objetivo central é evoluir o produto original através da implementação de diferenciais autorais e melhorias funcionais, transformando a réplica em uma solução superior e personalizada que supere as limitações da referência inicial e demonstre maturidade técnica na criação de software moderno. | :https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5: |
+
 ---
  
 ### 🏗 Estrutura do Repositório
