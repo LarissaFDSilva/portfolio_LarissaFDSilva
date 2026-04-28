@@ -49,7 +49,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :A Corrida do Prompt | :Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | :---: |
+| :A Corrida do Prompt | :Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | :https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva/tree/main/corrida_do_prompt: |
  
 ---
  
