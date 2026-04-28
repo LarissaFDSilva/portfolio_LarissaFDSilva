@@ -56,6 +56,9 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 
 | Projeto | Descrição | Link |
 | :Batalha de Modelos & Engenharia de Prompt (XML) | :Este projeto consiste em um benchmarking técnico de modelos de linguagem de grande escala (LLMs) focado na análise de precisão, conformidade e metacognição aplicada ao desenvolvimento Front-end. Através da construção de um prompt estruturado em XML, o objetivo é avaliar a capacidade de diferentes arquiteturas — como ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok e Maritaca — em gerar uma página HTML Single Page com CSS integrado, seguindo rigorosamente instruções complexas. A atividade visa identificar as nuances e limitações de cada ferramenta, desenvolvendo no desenvolvedor a habilidade de selecionar a IA mais adequada para tarefas de codificação baseadas em sua consistência e adesão a diretrizes técnicas estritas. | :https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/: |
+
+| Projeto | Descrição | Link |
+| :Engenharia Reversa | :Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | :https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5: |
 ---
  
 ### 🏗 Estrutura do Repositório
