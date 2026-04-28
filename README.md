@@ -54,7 +54,8 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Projeto | Descrição | Link |
 | :Laboratório de Classificação Visual | :Este experimento visa demonstrar, na prática, como o viés algorítmico é introduzido durante a fase de treinamento de uma Inteligência Artificial. O foco é observar como conjuntos de dados homogêneos e estereotipados comprometem a acurácia e a ética de um modelo de visão computacional. | :https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/: |
 
- 
+| Projeto | Descrição | Link |
+| :Batalha de Modelos & Engenharia de Prompt (XML) | :Este projeto consiste em um benchmarking técnico de modelos de linguagem de grande escala (LLMs) focado na análise de precisão, conformidade e metacognição aplicada ao desenvolvimento Front-end. Através da construção de um prompt estruturado em XML, o objetivo é avaliar a capacidade de diferentes arquiteturas — como ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok e Maritaca — em gerar uma página HTML Single Page com CSS integrado, seguindo rigorosamente instruções complexas. A atividade visa identificar as nuances e limitações de cada ferramenta, desenvolvendo no desenvolvedor a habilidade de selecionar a IA mais adequada para tarefas de codificação baseadas em sua consistência e adesão a diretrizes técnicas estritas. | :https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/: |
 ---
  
 ### 🏗 Estrutura do Repositório
