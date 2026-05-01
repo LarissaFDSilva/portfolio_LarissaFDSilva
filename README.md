@@ -1,5 +1,5 @@
  # [Larissa Ferreira da Silva]
-> Estudante de [Analise e Desenvolvimento de Sistemas em transição de carreira para TI (Estágio/Trainee). Possuo base em Front-end (HTML, CSS, JavaScript), Banco de Dados (SQL) e experiência comprovada como Instrutora de Treinamento. Destaque para Comunicação Assertiva, Inteligência Emocional e foco em alta performance e Desenvolvimento de Pessoas.]
+> Estudante de Analise e Desenvolvimento de Sistemas em transição de carreira para TI (Estágio/Trainee). Possuo base em Front-end (HTML, CSS, JavaScript), Banco de Dados (SQL) e experiência comprovada como Instrutora de Treinamento. Destaque para Comunicação Assertiva, Inteligência Emocional e foco em alta performance e Desenvolvimento de Pessoas.
  
 ---
  
@@ -11,12 +11,51 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] na Universidade Cidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Design de interfaces e jornada do usuario / Análise de Dados / Engenharia de prompt e aplicações em IA].
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. Sou entusiasta da tecnologia como ferramenta para a resolução de problemas complexos e otimização de processos.
+
+🚀 Minhas principais áreas de foco incluem:
+
+UX/UI Design: Foco em interfaces intuitivas e na melhoria da jornada do usuário.
+
+Análise de Dados: Transformando informações em insights estratégicos.
+
+IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Generativa para aumentar a produtividade e criar soluções inovadoras.
  
-* **Habilidades Técnicas:** [Python,Java,SQL,HTML e CSS].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Avaliação Semestral] onde desenvolvi [um website e-commerce para uma marca fictícia especializada na venda de pulseiras inteligentes (Fitness Trackers). O objetivo principal foi aplicar conceitos fundamentais de desenvolvimento web front-end.].
- 
+* **Habilidades Técnicas:**
+
+Desenvolvimento & Dados
+Linguagens: Python, Java e SQL.
+Web: HTML5 e CSS3.
+Banco de Dados: Modelagem de dados (MER/DER) e manipulação de bancos relacionais.
+
+UX/UI Design
+Prototipagem: Criação de wireframes e protótipos de alta fidelidade.
+UX Research: Aplicação de Heurísticas de Nielsen e foco em acessibilidade (WCAG).
+
+Inteligência Artificial & Produtividade
+IA Generativa: Engenharia de prompt para LLMs e integração de ferramentas de IA no fluxo de desenvolvimento.
+Automação: Desenvolvimento de scripts para automação de tarefas rotineiras.
+
+Educação & Treinamento
+Instructional Design: Desenvolvimento de material didático técnico e gestão de ciclos de aprendizado.
+
+* **Habilidades Socioemocionais:**
+
+Comunicação & Didática: Habilidade em traduzir conceitos complexos de forma clara e assertiva (vinda da experiência como Instrutor).
+Resolução de Problemas: Pensamento analítico e crítico voltado para soluções eficientes.
+Design Centrado no Humano: Empatia com o usuário final para criar interfaces que resolvam dores reais.
+Colaboração: Trabalho em equipe em ambientes dinâmicos e alta adaptabilidade a novas tecnologias. 
+
+* **Experiência/Projetos Relevantes:**
+  
+Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional.
+
+Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo.
+
+Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas.
+
+Tecnologias: HTML5, CSS3 e JavaScript.
+
 ---
  
 ### 🛠 Minhas Ferramentas Favoritas
@@ -25,17 +64,18 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 #### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
  
 ---
@@ -49,22 +89,28 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
-| :A Corrida do Prompt | :Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | :https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva/tree/main/corrida_do_prompt: |
+| :--- | :--- | :---: |
+| **A Corrida do Prompt** | Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva/tree/main/corrida_do_prompt) |
 
 | Projeto | Descrição | Link |
-| :Laboratório de Classificação Visual | :Este experimento visa demonstrar, na prática, como o viés algorítmico é introduzido durante a fase de treinamento de uma Inteligência Artificial. O foco é observar como conjuntos de dados homogêneos e estereotipados comprometem a acurácia e a ética de um modelo de visão computacional. | :https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/: |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | :Este experimento visa demonstrar, na prática, como o viés algorítmico é introduzido durante a fase de treinamento de uma Inteligência Artificial. O foco é observar como conjuntos de dados homogêneos e estereotipados comprometem a acurácia e a ética de um modelo de visão computacional. | [Ver Projeto](https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/) |
 
 | Projeto | Descrição | Link |
-| :Batalha de Modelos & Engenharia de Prompt (XML) | :Este projeto consiste em um benchmarking técnico de modelos de linguagem de grande escala (LLMs) focado na análise de precisão, conformidade e metacognição aplicada ao desenvolvimento Front-end. Através da construção de um prompt estruturado em XML, o objetivo é avaliar a capacidade de diferentes arquiteturas — como ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok e Maritaca — em gerar uma página HTML Single Page com CSS integrado, seguindo rigorosamente instruções complexas. A atividade visa identificar as nuances e limitações de cada ferramenta, desenvolvendo no desenvolvedor a habilidade de selecionar a IA mais adequada para tarefas de codificação baseadas em sua consistência e adesão a diretrizes técnicas estritas. | :https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/: |
+| :--- | :--- | :---: |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | :Este projeto consiste em um benchmarking técnico de modelos de linguagem de grande escala (LLMs) focado na análise de precisão, conformidade e metacognição aplicada ao desenvolvimento Front-end. Através da construção de um prompt estruturado em XML, o objetivo é avaliar a capacidade de diferentes arquiteturas — como ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok e Maritaca — em gerar uma página HTML Single Page com CSS integrado, seguindo rigorosamente instruções complexas. A atividade visa identificar as nuances e limitações de cada ferramenta, desenvolvendo no desenvolvedor a habilidade de selecionar a IA mais adequada para tarefas de codificação baseadas em sua consistência e adesão a diretrizes técnicas estritas. | [Ver Projeto](https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/) |
 
 | Projeto | Descrição | Link |
-| :Engenharia Reversa | :Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | :https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5: |
+| :--- | :--- | :---: |
+| **Engenharia Reversa** | :Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | [Ver Projeto](https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5) |
 
 | Projeto | Descrição | Link |
-| :Do Clone ao Produto Mínimo Viável (MVP+) | :Este projeto visa elevar a prática de engenharia reversa ao patamar da inovação competitiva, utilizando a Inteligência Artificial como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura escalável. Partindo de uma base previamente reconstruída, o objetivo central é evoluir o produto original através da implementação de diferenciais autorais e melhorias funcionais, transformando a réplica em uma solução superior e personalizada que supere as limitações da referência inicial e demonstre maturidade técnica na criação de software moderno. | :https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5: |
+| :--- | :--- | :---: |
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | :Este projeto visa elevar a prática de engenharia reversa ao patamar da inovação competitiva, utilizando a Inteligência Artificial como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura escalável. Partindo de uma base previamente reconstruída, o objetivo central é evoluir o produto original através da implementação de diferenciais autorais e melhorias funcionais, transformando a réplica em uma solução superior e personalizada que supere as limitações da referência inicial e demonstre maturidade técnica na criação de software moderno. | [Ver Projeto](https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5) |
 
 | Projeto | Descrição | Link |
-| :Engenharia de Software e IA com Bubble.io | :Este projeto foca no desenvolvimento de uma aplicação web de gestão utilizando a inteligência artificial do Bubble.io como acelerador de produtividade, equilibrando a agilidade do no-code com o rigor da engenharia de software tradicional. O objetivo é construir um sistema funcional, como um gerenciador de orçamentos ou de férias, aplicando diretrizes estritas de arquitetura de dados, segurança, escalabilidade e governança para garantir que a solução final seja robusta, segura e preparada para o crescimento operacional. | :https://bubble.io/page?id=larissaferreiradasillva&tab=Design&name=index&ai_generated=true: |
+| :--- | :--- | :---: |
+| **Engenharia de Software e IA com Bubble.io** | :Este projeto foca no desenvolvimento de uma aplicação web de gestão utilizando a inteligência artificial do Bubble.io como acelerador de produtividade, equilibrando a agilidade do no-code com o rigor da engenharia de software tradicional. O objetivo é construir um sistema funcional, como um gerenciador de orçamentos ou de férias, aplicando diretrizes estritas de arquitetura de dados, segurança, escalabilidade e governança para garantir que a solução final seja robusta, segura e preparada para o crescimento operacional. | [Ver Projeto](https://bubble.io/page?id=larissaferreiradasillva&tab=Design&name=index&ai_generated=true) |
 
 ---
  
