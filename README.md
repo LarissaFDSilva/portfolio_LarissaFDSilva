@@ -21,51 +21,13 @@ Análise de Dados: Transformando informações em insights estratégicos.
 
 IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Generativa para aumentar a produtividade e criar soluções inovadoras.
  
-* **Habilidades Técnicas:**
+* **Habilidades Técnicas:** Python, Java, SQL, HTML5, CSS3, modelagem de dados (MER/DER), manipulação de bancos relacionais, criação de wireframes e protótipos de alta fidelidade, aplicação de Heurísticas de Nielsen e foco em acessibilidade (WCAG), engenharia de prompt para LLMs, integração de ferramentas de IA no fluxo de desenvolvimento, desenvolvimento de scripts para automação de tarefas rotineiras, desenvolvimento de material didático técnico e gestão de ciclos de aprendizado.
 
-Desenvolvimento & Dados
-
-Linguagens: Python, Java e SQL.
-
-Web: HTML5 e CSS3.
-
-Banco de Dados: Modelagem de dados (MER/DER) e manipulação de bancos relacionais.
-
-UX/UI Design
-
-Prototipagem: Criação de wireframes e protótipos de alta fidelidade.
-
-UX Research: Aplicação de Heurísticas de Nielsen e foco em acessibilidade (WCAG).
-
-Inteligência Artificial & Produtividade
-
-IA Generativa: Engenharia de prompt para LLMs e integração de ferramentas de IA no fluxo de desenvolvimento.
-
-Automação: Desenvolvimento de scripts para automação de tarefas rotineiras.
-
-Educação & Treinamento
-
-Instructional Design: Desenvolvimento de material didático técnico e gestão de ciclos de aprendizado.
-
-* **Habilidades Socioemocionais:**
-
-Comunicação & Didática: Habilidade em traduzir conceitos complexos de forma clara e assertiva (vinda da experiência como Instrutor).
-
-Resolução de Problemas: Pensamento analítico e crítico voltado para soluções eficientes.
-
-Design Centrado no Humano: Empatia com o usuário final para criar interfaces que resolvam dores reais.
-
-Colaboração: Trabalho em equipe em ambientes dinâmicos e alta adaptabilidade a novas tecnologias. 
+* **Habilidades Socioemocionais:** Comunicação & Didática, Resolução de Problemas , Design Centrado no Humano, Trabalho em equipe em ambientes dinâmicos e adaptabilidade a novas tecnologias. 
 
 * **Experiência/Projetos Relevantes:**
   
-Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional.
-
-Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo.
-
-Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas.
-
-Tecnologias: HTML5, CSS3 e JavaScript.
+Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional. Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo. Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas. Tecnologias: HTML5, CSS3 e JavaScript.
 
 ---
  
