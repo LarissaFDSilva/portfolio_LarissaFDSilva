@@ -85,7 +85,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Monitoramento Inteligente com IoT** | O projeto consiste em um sistema de monitoramento integrado para academias, focado em coletar e analisar dados de desempenho, frequência e evolução física dos alunos por meio de dispositivos IoT (pulseiras inteligentes). O objetivo principal é transformar dados brutos em insights estratégicos para gestores e personal trainers, permitindo a identificação precoce de padrões de evasão (churn) e a otimização dos resultados individuais dos alunos. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
