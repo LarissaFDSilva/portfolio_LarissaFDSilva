@@ -13,12 +13,18 @@ Critérios de Avaliação: Precisão do prompt, qualidade do HTML, criatividade,
 
 📊 Resultados e Aprendizados
 O experimento produziu resultados distintos entre os modelos, evidenciando diferenças significativas de interpretação e execução.
-Critério:	 GPT	Gemini	DeepSeek	Qwen	Grok	Maritaca	Claude
-Precisão estimada do prompt:	6, 7,5, 6, 8, 9, 9, 8
-Precisão do HTML:	9, 8, 6,5, 8,5, 6, 6, 8
-Criatividade no Conteúdo:	3, 6, 6, 6, 7, 4, 9
-Erros de Sintaxe (Bugs):	7, 7,	7, 7, 6, 5, 7
-Tokens Gastos:	1.100, 1.950, 4.200, 1.450, 4.850, 1.250, 4.800
+Critério:	 
+GPT, Gemini, DeepSeek, Qwen, Grok, Maritaca, Claude
+Precisão estimada do prompt:	
+6, 7,5, 6, 8, 9, 9, 8
+Precisão do HTML:	
+9, 8, 6,5, 8,5, 6, 6, 8
+Criatividade no Conteúdo:	
+3, 6, 6, 6, 7, 4, 9
+Erros de Sintaxe (Bugs):	
+7, 7,	7, 7, 6, 5, 7
+Tokens Gastos:	
+1.100, 1.950, 4.200, 1.450, 4.850, 1.250, 4.800
 
 Principais achados:
 
