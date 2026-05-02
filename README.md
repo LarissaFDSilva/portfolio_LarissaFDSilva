@@ -25,9 +25,7 @@ IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Ge
 
 * **Habilidades Socioemocionais:** Comunicação & Didática, Resolução de Problemas , Design Centrado no Humano, Trabalho em equipe em ambientes dinâmicos e adaptabilidade a novas tecnologias. 
 
-* **Experiência/Projetos Relevantes:**
-  
-Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional. Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo. Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas. Tecnologias: HTML5, CSS3 e JavaScript.
+* **Experiência/Projetos Relevantes:** Desenvolvimento de um website de e-commerce para uma marca fictícia de pulseiras inteligentes (Fitness Trackers). O projeto foi o destaque da avaliação semestral, focado em transformar conceitos teóricos em uma solução digital funcional. Foco Principal: Aplicação de fundamentos de Front-end e estruturação de layout responsivo. Diferenciais: Implementação de princípios de UX/UI voltados para a jornada de compra e conversão de vendas. Tecnologias: HTML5, CSS3 e JavaScript.
 
 ---
  
