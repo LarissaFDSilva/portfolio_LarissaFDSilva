@@ -113,7 +113,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia Reversa** | Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | [Ver Projeto](https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5) |
+| **Engenharia Reversa** | Este projeto propõe uma imersão no papel de desenvolvedor assistido por IA, focando na reconstrução de softwares através de engenharia reversa visual e lógica. O processo consiste em analisar um webapp de referência para mapear seus componentes e regras de negócio, configurar instruções sistêmicas avançadas no Google AI Studio para orientar o Gemini como um desenvolvedor Full-Stack e, por fim, validar a solução gerada em ambiente de teste, refinando o código até que a funcionalidade e a estética espelhem fielmente o produto original. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/b09b32f898d3ae5a0b1562d0d652b1b21704b684/projeto-engenharia-reversa) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
