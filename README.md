@@ -105,7 +105,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Este experimento visa demonstrar, na prática, como o viés algorítmico é introduzido durante a fase de treinamento de uma Inteligência Artificial. O foco é observar como conjuntos de dados homogêneos e estereotipados comprometem a acurácia e a ética de um modelo de visão computacional. | [Ver Projeto](https://teachablemachine.withgoogle.com/models/WvF-RB6PBF/) |
+| **Laboratório de Classificação Visual** | Este experimento visa demonstrar, na prática, como o viés algorítmico é introduzido durante a fase de treinamento de uma Inteligência Artificial. O foco é observar como conjuntos de dados homogêneos e estereotipados comprometem a acurácia e a ética de um modelo de visão computacional. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/630c714204709cf1151a07d21023d2d85e7af3f6/projeto-laboratorio-de-classifica%C3%A7%C3%A3o-visual) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
