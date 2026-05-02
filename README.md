@@ -24,26 +24,37 @@ IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Ge
 * **Habilidades Técnicas:**
 
 Desenvolvimento & Dados
+
 Linguagens: Python, Java e SQL.
+
 Web: HTML5 e CSS3.
+
 Banco de Dados: Modelagem de dados (MER/DER) e manipulação de bancos relacionais.
 
 UX/UI Design
+
 Prototipagem: Criação de wireframes e protótipos de alta fidelidade.
+
 UX Research: Aplicação de Heurísticas de Nielsen e foco em acessibilidade (WCAG).
 
 Inteligência Artificial & Produtividade
+
 IA Generativa: Engenharia de prompt para LLMs e integração de ferramentas de IA no fluxo de desenvolvimento.
+
 Automação: Desenvolvimento de scripts para automação de tarefas rotineiras.
 
 Educação & Treinamento
+
 Instructional Design: Desenvolvimento de material didático técnico e gestão de ciclos de aprendizado.
 
 * **Habilidades Socioemocionais:**
 
 Comunicação & Didática: Habilidade em traduzir conceitos complexos de forma clara e assertiva (vinda da experiência como Instrutor).
+
 Resolução de Problemas: Pensamento analítico e crítico voltado para soluções eficientes.
+
 Design Centrado no Humano: Empatia com o usuário final para criar interfaces que resolvam dores reais.
+
 Colaboração: Trabalho em equipe em ambientes dinâmicos e alta adaptabilidade a novas tecnologias. 
 
 * **Experiência/Projetos Relevantes:**
