@@ -121,7 +121,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Software e IA com Bubble.io** | Este projeto foca no desenvolvimento de uma aplicação web de gestão utilizando a inteligência artificial do Bubble.io como acelerador de produtividade, equilibrando a agilidade do no-code com o rigor da engenharia de software tradicional. O objetivo é construir um sistema funcional, como um gerenciador de orçamentos ou de férias, aplicando diretrizes estritas de arquitetura de dados, segurança, escalabilidade e governança para garantir que a solução final seja robusta, segura e preparada para o crescimento operacional. | [Ver Projeto](https://bubble.io/page?id=larissaferreiradasillva&tab=Design&name=index&ai_generated=true) |
+| **Engenharia de Software e IA com Bubble.io** | Este projeto foca no desenvolvimento de uma aplicação web de gestão utilizando a inteligência artificial do Bubble.io como acelerador de produtividade, equilibrando a agilidade do no-code com o rigor da engenharia de software tradicional. O objetivo é construir um sistema funcional, como um gerenciador de orçamentos ou de férias, aplicando diretrizes estritas de arquitetura de dados, segurança, escalabilidade e governança para garantir que a solução final seja robusta, segura e preparada para o crescimento operacional. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/77057e443db1f8e54c1b91d1a46a8f7dac229f87/projeto-engenharia-de-software-ia-bubble) |
 
 ---
  
