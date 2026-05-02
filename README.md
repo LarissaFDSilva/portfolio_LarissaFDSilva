@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![www.linkedin.com/in/larissa-silva-8847b521b](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/larissa-silva-8847b521b)
+[![www.linkedin.com/in/larissa-silva-8847b521b](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-silva-8847b521b/)
 [![larissaferreiradasillva@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva/blob/main/cv/curr%C3%ADculo_ads.pdf)
  
