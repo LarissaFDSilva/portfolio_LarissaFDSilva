@@ -1,14 +1,17 @@
 ⚔️ Batalha de Modelos & Engenharia de Prompt (XML)
 
-📝 Descrição do Projeto
+📝 Descrição do Projeto: 
 Este projeto consiste em um experimento comparativo de modelos de linguagem (LLMs) utilizando Engenharia de Prompt estruturada em XML. O objetivo principal é avaliar como diferentes IAs interpretam e executam um mesmo prompt estruturado, identificando diferenças em precisão, criatividade, verbosidade e qualidade do código gerado.
 Desenvolvido como parte da disciplina de Engenharia de Prompt e Aplicações em IA, o experimento solicita a cada modelo a geração de uma página HTML5 Single Page com CSS3 integrado, com tema na Força Aérea Brasileira — incluindo menu de navegação, galeria, rodapé e uma ferramenta de alistamento militar.
 Os modelos avaliados foram: ChatGPT, Gemini, DeepSeek, Qwen, Grok, Maritaca e Claude.
 
-🚀 Tecnologias e Ferramentas Utilizadas
+🚀 Tecnologias e Ferramentas Utilizadas:
 Formato do Prompt: XML estruturado
+
 Saída Esperada: HTML5 + CSS3 (Single Page Application)
+
 Modelos Avaliados: GPT, Gemini, DeepSeek, Qwen, Grok, Maritaca, Claude
+
 Critérios de Avaliação: Precisão do prompt, qualidade do HTML, criatividade, bugs e consumo de tokens
 
 📊 Resultados e Aprendizados
