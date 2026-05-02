@@ -117,7 +117,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Do Clone ao Produto Mínimo Viável (MVP+)** | Este projeto visa elevar a prática de engenharia reversa ao patamar da inovação competitiva, utilizando a Inteligência Artificial como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura escalável. Partindo de uma base previamente reconstruída, o objetivo central é evoluir o produto original através da implementação de diferenciais autorais e melhorias funcionais, transformando a réplica em uma solução superior e personalizada que supere as limitações da referência inicial e demonstre maturidade técnica na criação de software moderno. | [Ver Projeto](https://ai.studio/apps/8771fafb-c275-4861-8ce6-5157c2c696f5) |
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Este projeto visa elevar a prática de engenharia reversa ao patamar da inovação competitiva, utilizando a Inteligência Artificial como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura escalável. Partindo de uma base previamente reconstruída, o objetivo central é evoluir o produto original através da implementação de diferenciais autorais e melhorias funcionais, transformando a réplica em uma solução superior e personalizada que supere as limitações da referência inicial e demonstre maturidade técnica na criação de software moderno. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/94e0eb8fd88db29fe966198f1b140d4c8c8b28f0/projeto-do-clone-ao-produto-minimo-viavel-mvp) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
