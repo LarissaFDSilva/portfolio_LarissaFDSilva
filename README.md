@@ -101,7 +101,7 @@ Tecnologias: HTML5, CSS3 e JavaScript.
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Corrida do Prompt** | Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva/tree/main/corrida_do_prompt) |
+| **A Corrida do Prompt** | Este projeto documenta o desenvolvimento e a aplicação de técnicas avançadas de Prompt Engineering (Engenharia de Instrução). O objetivo central é assumir o papel de especialistas na mediação entre humanos e IA, utilizando o modelo Qwen para gerar resultados (texto e imagem) de altíssima precisão. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/94e0eb8fd88db29fe966198f1b140d4c8c8b28f0/projeto-corrida-do-prompt) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
