@@ -83,6 +83,10 @@ IA & Engenharia de Prompt: Explorando o potencial da Inteligência Artificial Ge
 | :--- | :--- | :---: |
 | **Engenharia de Software e IA com Bubble.io** | Este projeto foca no desenvolvimento de uma aplicação web de gestão utilizando a inteligência artificial do Bubble.io como acelerador de produtividade, equilibrando a agilidade do no-code com o rigor da engenharia de software tradicional. O objetivo é construir um sistema funcional, como um gerenciador de orçamentos ou de férias, aplicando diretrizes estritas de arquitetura de dados, segurança, escalabilidade e governança para garantir que a solução final seja robusta, segura e preparada para o crescimento operacional. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/77057e443db1f8e54c1b91d1a46a8f7dac229f87/projeto-engenharia-de-software-ia-bubble) |
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | O MusicSync é um ecossistema de videoconferência de alta performance desenvolvido em React Native com Expo que resolve as limitações do ensino musical remoto ao integrar o motor do Jitsi Meet configurado para áudio de alta fidelidade, permitindo a captura de instrumentos sem os filtros de ruído comuns em plataformas genéricas. A solução centraliza ferramentas pedagógicas como uma estante de partituras digital com scroll sincronizado, metrônomo global para coesão rítmica e um sistema de segunda câmera via QR Code para monitoramento de postura, utilizando uma arquitetura profissional que gerencia sessões de desenvolvimento e configurações de servidor através de manifestos locais como o devices.json e settings.json. | [Ver Projeto](https://github.com/LarissaFDSilva/portfolio-larissa-ferreira-da-silva/tree/94e0eb8fd88db29fe966198f1b140d4c8c8b28f0/projeto-corrida-do-prompt) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
