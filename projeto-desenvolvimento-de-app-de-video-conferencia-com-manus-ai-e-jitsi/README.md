@@ -1,4 +1,5 @@
 🎵 MusicSync – Plataforma de Educação Musical & Vídeo
+
 O MusicSync é uma solução de videoconferência de alta performance projetada especificamente para o ensino de música. O projeto resolve o problema da baixa qualidade de áudio e da falta de ferramentas colaborativas em chamadas de vídeo genéricas, oferecendo um ambiente onde a fidelidade sonora e o suporte pedagógico (partituras e metrônomos) são a prioridade.
 
 🚀 Funcionalidades Principais
@@ -63,3 +64,7 @@ Escaneie o QR Code gerado no terminal utilizando o aplicativo Expo Go (Android/i
 
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Autora: Larissa Ferreira da Silva
+
+[Voltar ao início](https://github.com/LarissaFDSilva/portfolio_LarissaFDSilva)
