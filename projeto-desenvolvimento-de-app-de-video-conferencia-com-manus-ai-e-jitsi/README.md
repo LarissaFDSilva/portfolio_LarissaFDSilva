@@ -23,6 +23,7 @@ Sincronização: WebSockets e NTP (Network Time Protocol)
 Processamento de Som: Web Audio API
 
 📂 Informações de Infraestrutura (Expo)
+
 Ao desenvolver este projeto, uma pasta denominada .expo será gerada localmente. Conforme as diretrizes do projeto:
 
 Origem: A pasta é criada automaticamente ao executar o comando expo start.
@@ -34,6 +35,7 @@ settings.json: Contém a configuração do servidor para servir o manifesto da a
 Versão e Segurança: Esta pasta não deve ser enviada ao GitHub, pois contém dados específicos da sua máquina local. Ela já está incluída no arquivo .gitignore por padrão.
 
 🏁 Instruções de Instalação (Passo a Passo)
+
 Siga os passos abaixo para configurar o ambiente de desenvolvimento em sua máquina:
 
 Clonar o Repositório:
@@ -55,14 +57,17 @@ Caso ainda não possua o Expo globalmente:
 npm install -g expo-cli
 
 Iniciar o Projeto:
+
 Execute o comando abaixo para gerar a pasta .expo e iniciar o servidor Metro.
 
 npx expo start
 
 Execução no Dispositivo:
+
 Escaneie o QR Code gerado no terminal utilizando o aplicativo Expo Go (Android/iOS) para visualizar o app em tempo real.
 
 📄 Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Autora: Larissa Ferreira da Silva
