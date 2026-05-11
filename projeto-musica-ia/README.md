@@ -22,7 +22,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | 01 | [Eco das Ruas] | [Rock Fusion (Rapcore/Hardcore)] | [Arquivo MP3](./audio/musica1.mp3) |
 | 02 | [Trilhos da Evolução] | [Reggae/Skate Punk] | [Arquivo MP3](./audio/musica2.mp3) |
 | 03 | [Minha Especial Girl] | [Pop Punk/Skate Rock] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Brisa de Santos] | [Rock Fusion (Reggae/Pop Rock)] | [Arquivo MP3](./audio/musica4.mp3) |
+| 04 | [Brisa de Santos] | [Rock Fusion (Reggae/Pop Rock)] | [Arquivo MP3](projeto-musica-ia/Brisa de Santos.mp3) |
 | 05 | [Ollie Sobre o Caos] | [Skate Punk/Pop-Punk (Estilo Blink-182 com fusão de elementos urbanos)] | [Arquivo MP3](./audio/musica5.mp3) |
 | 06 | [Ecos do que a Gente Foi] | [Indie/Folk Contemporâneo] | [Arquivo MP3](./audio/musica5.mp3) |
  
