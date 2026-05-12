@@ -19,13 +19,12 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Eco das Ruas] | [Rock Fusion (Rapcore/Hardcore)] | [Arquivo MP3]([Eco das Ruas.mp3](https://github.com/user-attachments/files/27614927/Eco.das.Ruas.mp3)
-) |
-| 02 | [Trilhos da Evolução] | [Reggae/Skate Punk] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Minha Especial Girl] | [Pop Punk/Skate Rock] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Brisa de Santos] | [Rock Fusion (Reggae/Pop Rock)] | [Arquivo MP3](./audio/musica3.mp3) |
-| 05 | [Ollie Sobre o Caos] | [Skate Punk/Pop-Punk (Estilo Blink-182 com fusão de elementos urbanos)] | [Arquivo MP3](./audio/musica5.mp3) |
-| 06 | [Ecos do que a Gente Foi] | [Indie/Folk Contemporâneo] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | [Eco das Ruas] | [Rock Fusion (Rapcore/Hardcore)] | [Eco das Ruas.mp3](https://github.com/user-attachments/files/27614927/Eco.das.Ruas.mp3)
+| 02 | [Trilhos da Evolução] | [Reggae/Skate Punk] | [Trilhos da Evolução.mp3](https://github.com/user-attachments/files/27614988/Trilhos.da.Evolucao.mp3)
+| 03 | [Minha Especial Girl] | [Pop Punk/Skate Rock] | [Minha Especial Girl.mp3](https://github.com/user-attachments/files/27614999/Minha.Especial.Girl.mp3)
+| 04 | [Brisa de Santos] | [Rock Fusion (Reggae/Pop Rock)] | [Brisa de Santos.mp3](https://github.com/user-attachments/files/27615008/Brisa.de.Santos.mp3)
+| 05 | [Ollie Sobre o Caos] | [Skate Punk/Pop-Punk (Estilo Blink-182 com fusão de elementos urbanos)] | [Ollie Sobre o Caos.mp3](https://github.com/user-attachments/files/27615014/Ollie.Sobre.o.Caos.mp3)
+| 06 | [Ecos do que a Gente Foi] | [Indie/Folk Contemporâneo] | [Ecos do que a Gente Foi.mp3](https://github.com/user-attachments/files/27615015/Ecos.do.que.a.Gente.Foi.mp3)
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
