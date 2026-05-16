@@ -1,4 +1,4 @@
- # [Larissa Ferreira da Silva]
+ # Larissa Ferreira da Silva
 > Estudante de Analise e Desenvolvimento de Sistemas em transição de carreira para TI (Estágio/Trainee). Possuo base em Front-end (HTML, CSS, JavaScript), Banco de Dados (SQL) e experiência comprovada como Instrutora de Treinamento. Destaque para Comunicação Assertiva, Inteligência Emocional e foco em alta performance e Desenvolvimento de Pessoas.
  
 ---
