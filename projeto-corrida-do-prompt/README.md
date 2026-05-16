@@ -12,7 +12,7 @@ Os dois desafios trabalhados foram:
 
 🚀 Tecnologias e Ferramentas Utilizadas
 
-Modelos de IA: Qwen 3.5-Plus (geração de imagem), LLM de texto (geração das cartas)
+Modelos de IA: Qwen 3.5-Plus / Qwen 3.6-Plus (geração de imagem), LLM de texto (geração das cartas)
 
 Técnica Central: Prompt Engineering Iterativo
 
