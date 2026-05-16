@@ -63,22 +63,21 @@ Prompts vagos geram distorções e resultados imprecisos. Prompts detalhados ent
 
 🔧 Como Reproduzir o Experimento
 
-Escolha um dos dois desafios: geração de imagem ou redação de carta.
-Comece com o Prompt 1 (versão mais simples) em qualquer LLM de sua escolha.
-A cada rodada, adicione uma nova camada de contexto conforme a sequência:
+Comece com o Prompt 1 (versão mais simples) e, a cada rodada, adicione uma nova camada de contexto conforme a natureza do desafio:
 
-Prompt 1: Instrução básica
+Para o Texto (E-mail):
+- Prompt 1: Instrução básica
+- Prompt 2: + Contexto geográfico/histórico específico
+- Prompt 3: + Motivação/Ação do personagem
+- Prompt 4: + Tensão / Consequência dramática
+- Prompt 5: + Prazo ou urgência concreta
 
-Prompt 2: + Local / contexto físico específico
-
-Prompt 3: + Motivação do personagem
-
-Prompt 4: + Tensão / consequência dramática
-
-Prompt 5: + Prazo ou urgência concreta
-
-Compare os resultados de cada versão e avalie as diferenças em qualidade, tom e precisão.
-
+Para a Imagem (Astronauta):
+- Prompt 1: Instrução básica (Tema central)
+- Prompt 2: + Refinamento de estilo (Hiperrealismo e sub-elementos)
+- Prompt 3: + Atmosfera e Iluminação (Cores, poeira, tom)
+- Prompt 4: + Contraste e Texturas (Luz/sombra e materiais)
+- Prompt 5: + Enquadramento técnico (Planos de câmera e profundidade de campo)
 
 💡 Reflexão Crítica — Viés e Human-in-the-Loop
 
